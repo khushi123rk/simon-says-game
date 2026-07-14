@@ -1,6 +1,7 @@
 # Simon Says Game
 # Preview
 ![Simon Says Game](home-page.png)
+
 A browser-based Simon Says memory game built using HTML, CSS, and JavaScript.
 
 # Features
