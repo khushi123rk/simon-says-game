@@ -15,11 +15,5 @@ A browser-based Simon Says memory game built using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-# Project Structure
-simon-says-game/
-│── index.html
-│── style.css
-│── app.js
-
 # Author
 Khushi Verma
